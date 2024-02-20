@@ -9,7 +9,7 @@ git clone url_repositorio
 2. Adicionar arquivo ao GIT
 
 ```shell
-git add nome_arquivo/nome_pasta
+git add <nome_arquivo>
 ```
 
 3. Comitar arquivo no Git
